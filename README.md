@@ -121,6 +121,6 @@ This project demonstrates the importance of Exploratory Data Analysis in underst
 
 ## 👨‍💻 Author
 
-**Kavi**
+**Yogeshwar R**
 
 Data Analyst Internship - Task 5
