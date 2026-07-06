@@ -100,20 +100,6 @@ These visualizations helped identify:
 
 ---
 
-## 📁 Repository Structure
-
-```
-Titanic-EDA/
-│
-├── Titanic.csv
-├── EDA_Task5.ipynb
-├── EDA_Report.pdf
-├── README.md
-└── images/
-```
-
----
-
 ## 📚 Learning Outcomes
 
 Through this project, I learned how to:
